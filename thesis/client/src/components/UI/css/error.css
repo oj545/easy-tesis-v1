@@ -1,0 +1,12 @@
+.error-controller {
+  position: fixed;
+  top: 10%;
+  left: 20%;
+  width: 60vw;
+  /* height: 40vh;  */
+  z-index: 100;
+  /* border: solid 4px black; */
+}
+.error-controller p {
+  font-size: 2rem;
+}

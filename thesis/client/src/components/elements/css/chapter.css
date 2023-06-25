@@ -1,0 +1,46 @@
+.chapter-controll {
+  background-color: #f6f1f1;
+  background-attachment: fixed;
+  color: black;
+  overflow: auto;
+  scroll-behavior: smooth;
+  padding-right: 2rem;
+  padding-left: 2rem;
+
+  margin-right: 2rem;
+  /* border-radius: 20px; */
+  /* z-index: 10000; */
+}
+
+.chapter-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 8rem;
+  margin-top: 6rem;
+  margin-left: 1rem;
+  align-items: center;
+}
+.chapter-header h1 {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+  font-style: oblique;
+}
+
+.image {
+  /* clip-path: polygon(0 0, 100% 1%, 100% 79%, 0 100%, 0% 50%); */
+  background-image: linear-gradient(to bottom, #a5d8ff);
+  background-color: #a5d8ff;
+  padding: 2rem;
+  border-radius: 20px;
+  border: solid 5px #228be6;
+  /* border-top-left-radius: 20px; */
+}
+/* .image p {
+  padding-bottom: 13rem;
+} */
+.head-line p {
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin-bottom: 7rem;
+}

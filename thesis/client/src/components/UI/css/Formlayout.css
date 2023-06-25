@@ -1,0 +1,11 @@
+.form-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* background-color: red; */
+  height: 60vh;
+  width: 100%;
+
+  border: solid 2px black;
+  border-radius: 3rem;
+  margin-top: 5rem;
+}

@@ -1,0 +1,14 @@
+.page {
+  padding: 0rem;
+  /* height: 90vh; */
+  margin-right: 5%;
+  padding: 5rem;
+  padding-bottom: 5rem;
+}
+
+.secure-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}

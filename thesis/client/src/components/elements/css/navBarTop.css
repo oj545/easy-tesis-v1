@@ -1,0 +1,50 @@
+.navbar-control {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100vw;
+  background: #19a7ce;
+  border-bottom: solid 4px black;
+  height: 5vh;
+  z-index: 10;
+}
+.navbar-control ul {
+  display: flex;
+  margin-top: 0.5rem;
+  list-style: none;
+  width: 100%;
+}
+.nav-top-user {
+  font-size: 1.7rem;
+  font-style: oblique;
+  text-decoration: none;
+  color: black;
+  margin-left: 1rem;
+  font-weight: 500;
+  padding: 0.2rem 0.4rem;
+  margin-right: auto;
+}
+
+.nav-top-link {
+  font-size: 1.7rem;
+  text-decoration: none;
+  color: black;
+  margin-left: 1rem;
+  font-weight: 500;
+  padding: 0.2rem 0.4rem;
+}
+.auth {
+  margin-left: auto;
+  margin-right: 2rem;
+}
+.active {
+  /* border: solid 1px black; */
+  padding: 0.2rem 0.9rem;
+  border-radius: 9px;
+  background-image: linear-gradient(to left #b2f2bb, #e9fac8);
+}
+.btn-logout {
+  font-size: 1.8rem;
+  background: none;
+  border: none;
+}

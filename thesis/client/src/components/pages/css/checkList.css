@@ -1,0 +1,68 @@
+.check-controller {
+  margin-top: 7%;
+  display: flex;
+  background-color: rgb(200, 224, 245);
+  border-radius: 20px;
+  padding: 3rem;
+}
+.check-list {
+  width: 40%;
+  list-style: none;
+}
+
+.check-item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+.check-item input {
+  width: 20px;
+  height: 20px;
+  margin-left: 2rem;
+}
+.check-item p {
+  font-size: 2.2rem;
+}
+.check-explanation {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-around; */
+  padding: 5rem;
+  padding-top: 0;
+}
+.check-explanation h2 {
+  font-size: 4rem;
+  margin-bottom: 5rem;
+  transform: translate(-50%);
+  margin-left: 50%;
+  margin-bottom: 2rem;
+}
+.check-explanation p {
+  transform: translate(-50%);
+  margin-left: 50%;
+  margin-bottom: auto;
+  font-size: 2.5rem;
+  width: 90%;
+}
+.check-btns {
+  display: flex;
+  justify-content: space-around;
+}
+.check-btns button {
+  font-size: 2rem;
+}
+.resultes {
+  padding: 4rem;
+  border: solid 1px black;
+  margin-left: 8%;
+}
+.resulte-btns {
+  display: flex;
+  justify-content: space-between;
+  /* background-color: red; */
+  margin-left: 8%;
+}
+.resulte-btns button {
+  font-size: 2rem;
+}

@@ -1,0 +1,82 @@
+.toolbar {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  /* height: 15%; */
+  top: 5%;
+  left: 7%;
+  z-index: 100;
+  padding: 0.5rem;
+  /* background-color: #074580; */
+}
+
+.link-list {
+  position: fixed;
+  top: 6%;
+  left: 132px;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: space-between;
+  /* background-color: red; */
+  z-index: 100;
+}
+.arrow-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+  padding: 1rem;
+  margin-left: 15px;
+  border-radius: 50%;
+  border: solid 3px #146c94;
+  background-color: white;
+}
+.arrow-btn svg {
+  font-size: 2rem;
+}
+.ques-links {
+  display: flex;
+
+  flex-direction: column;
+  align-items: start;
+  /* transform: translateX(-8px); */
+  list-style: none;
+}
+.ques-link {
+  background-color: white;
+  /* margin-top: 1rem; */
+
+  list-style: none;
+  /* color: black; */
+  align-items: center;
+  border: solid 3px #074580;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  margin-top: 3rem;
+}
+.ques-link a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+.save-btn {
+  position: fixed;
+  top: 7%;
+  right: -8%;
+  margin-right: 15rem;
+  padding: 1rem 8rem;
+  z-index: 100;
+}
+.toolbar button {
+  padding: 0.5rem 1.5rem;
+  font-size: 1.5rem;
+}

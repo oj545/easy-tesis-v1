@@ -1,0 +1,5 @@
+.chapters-grid {
+  display: grid;
+  grid-template-columns: 15% 1fr;
+  /* background-color: #074580; */
+}
