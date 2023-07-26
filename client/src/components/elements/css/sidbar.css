@@ -1,0 +1,49 @@
+.sidbar-controll {
+  height: 100vh;
+  width: 35%;
+  background: #074580;
+  position: fixed;
+
+  left: 0;
+  top: 5%;
+  z-index: 10;
+  min-width: 140px;
+  max-width: 170px;
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 2rem;
+  margin-left: 0rem;
+  margin-left: 0;
+  padding-left: 0;
+}
+.other-pages {
+  display: flex;
+  flex-direction: column;
+  margin-top: 4rem;
+}
+.active-page {
+  text-decoration: none;
+  background-color: #1c7ed6;
+  color: white;
+  font-size: 1.8rem;
+
+  padding: 1rem 0 1rem 2rem;
+  z-index: 4;
+}
+.pending-page {
+  text-decoration: none;
+  color: white;
+  padding: 1rem 0 1rem 2rem;
+  font-size: 1.8rem;
+}
+.pending-page:hover {
+  color: white;
+  background-color: #1c7ed6;
+}
+.active-page:hover {
+  color: white;
+}

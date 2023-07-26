@@ -1,0 +1,60 @@
+.form-description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  height: 100%;
+  background-image: linear-gradient(to bottom, #66d9e8, #74c0fc, #1971c2);
+  border-top-left-radius: 6%;
+  border-bottom-left-radius: 6%;
+  padding: 2rem;
+}
+.form-description h2 {
+  margin-top: 3rem;
+  font-size: 4rem;
+}
+.form-description p {
+  margin-top: 4rem;
+  font-size: 3rem;
+  margin-left: 2rem;
+  text-align: center;
+}
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 3rem;
+  padding-top: 7rem;
+  background-image: url('https://www.somersetscientificservices.co.uk/wp-content/uploads/Somerset-Scientific-Services-testing-labs.jpg');
+  background-size: cover;
+  border-top-right-radius: 6%;
+  border-bottom-right-radius: 6%;
+}
+.signup-form input {
+  background-color: white;
+  font-size: 2rem;
+}
+.signup-form label {
+  font-size: 2rem;
+  font-weight: 600;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+
+  height: 100%;
+  padding: 3rem;
+  padding-top: 10rem;
+  background-image: url('https://www.somersetscientificservices.co.uk/wp-content/uploads/Somerset-Scientific-Services-testing-labs.jpg');
+  background-size: cover;
+  border-top-right-radius: 6%;
+  border-bottom-right-radius: 6%;
+}
+.login-form input {
+  font-size: 2rem;
+  background-color: white;
+}
+.login-form label {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
