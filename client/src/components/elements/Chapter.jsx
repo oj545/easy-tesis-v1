@@ -25,6 +25,20 @@ function Chapter({ instructions, title, isLoaded, answers, id, error }) {
     }
   }, [instructions, error]);
 
+  const lineBreaker = (str) => {
+    const lines = str.split('\n');
+    return (
+      <small>
+        {lines.map((line, index) => (
+          <small key={index}>
+            {line}
+            <br />
+          </small>
+        ))}
+      </small>
+    );
+  };
+
   return (
     <>
       {isLoaded && (
@@ -35,13 +49,17 @@ function Chapter({ instructions, title, isLoaded, answers, id, error }) {
               <div className="image">
                 <h1>{instructions?.title}</h1>
                 <div className="head-line">
-                  <p>{instructions?.generalDescription}</p>
+                  <p>
+                    {!instructions?.generalDescription.includes('\n')
+                      ? instructions?.generalDescription
+                      : lineBreaker(instructions?.generalDescription)}
+                  </p>
                 </div>
               </div>
             </div>
 
             <div className="chapter-main">
-              {instructions?.tasks.map((ques, index) => {
+              {instructions?.tasks?.map((ques, index) => {
                 return (
                   <Question
                     answer={answers.content[index]}

@@ -38,7 +38,7 @@ function SideBar({ hideHelp }) {
               isActive ? 'active-page ' : 'pending-page '
             }
           >
-            Flies
+            Files
           </NavLink>
         </div>
       </div>

@@ -89,12 +89,13 @@ function CheckList() {
               </ul>
 
               <div className="check-explanation">
-                <h2>How It Works</h2>
+                <h2>How to create the final PDF file</h2>
                 <p>
-                  in oreder to see your resultes click on the check box for the
-                  section you want to see or click<strong> Select All</strong>{' '}
-                  then click on <strong>Show Resultes</strong> it will take to
-                  other page then click on <strong>Genarate to PDF</strong>
+                  Click on the checkbox next to the section you want to see, or
+                  alternatively, click "Select All" to choose all sections. Once
+                  you've made your selection, click on "Show Results." This
+                  action will take you to another page. On the new page, locate
+                  and click on the "Generate to PDF" button.
                 </p>
 
                 <div className="check-btns">
@@ -109,7 +110,7 @@ function CheckList() {
                     className="btn btn-outline-primary btn-lg  
               "
                   >
-                    Show Resulte
+                    Show Results
                   </button>
                 </div>
               </div>

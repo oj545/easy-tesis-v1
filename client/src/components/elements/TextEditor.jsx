@@ -13,7 +13,7 @@ function TextEditor({ index, title, answer, sentences }) {
   const [showSentences, toggole] = useState(false);
   const [content, setContent] = useState();
   const dispatch = useDispatch();
-
+  console.log(sentences);
   useEffect(() => {
     setContent(answer);
   }, [answer]);
@@ -60,7 +60,7 @@ function TextEditor({ index, title, answer, sentences }) {
           Sentences Bank
         </button>
       </div>
-      {showSentences && (
+      {showSentences && sentences && (
         <Sentence
           sentences={sentences}
           index={index}

@@ -75,6 +75,7 @@ exports.getChapter = asyncHandler(async (req, res, next) => {
   const title = req.params.title;
   // 1 check if user hase chapterAnswers for this title
   const chapter = await BLL_CHA.getChapterDitals(userId, title);
+  console.log(title, chapter, "chapterrrrrrrrrrrrrrrrrrr");
 
   if (!chapter.instructions || !chapter.answers) {
     return next(new AppError("file not found"));

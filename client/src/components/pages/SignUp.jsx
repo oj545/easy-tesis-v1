@@ -48,6 +48,7 @@ function SignUp() {
                   <Form.Label>First Name</Form.Label>
                   <Form.Control
                     type="text"
+                    placeholder="First Name"
                     className="text-center "
                     onChange={(e) =>
                       register({ ...signup, firstName: e.target.value })
@@ -62,6 +63,7 @@ function SignUp() {
                   <Form.Label>Last Name</Form.Label>
                   <Form.Control
                     className="text-center"
+                    placeholder="Last Name"
                     type="text"
                     onChange={(e) =>
                       register({ ...signup, lastName: e.target.value })
@@ -71,9 +73,10 @@ function SignUp() {
               </Col>
             </Row>
             <Form.Group className="mb-3" controlId="formBasicPassword">
-              <Form.Label className="text-justify-center">Eamil</Form.Label>
+              <Form.Label className="text-justify-center">Email</Form.Label>
               <Form.Control
                 className="text-center"
+                placeholder="Email"
                 type="email"
                 onChange={(e) => register({ ...signup, email: e.target.value })}
               />
@@ -96,7 +99,7 @@ function SignUp() {
               <Form.Control
                 className="text-center"
                 type="password"
-                placeholder="Password"
+                placeholder="Confirm Password"
                 onChange={(e) =>
                   register({ ...signup, passwordConfirm: e.target.value })
                 }

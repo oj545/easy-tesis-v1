@@ -37,7 +37,7 @@ function FilesDitails() {
                 <th>Chapter</th>
                 <th>Created</th>
                 <th>Flie Status</th>
-                <th>Complited</th>
+                <th>Completed</th>
               </tr>
             </thead>
 
@@ -52,7 +52,7 @@ function FilesDitails() {
                         onClick={createFileHandler}
                         className="btn btn-create-file btn-outline-primary"
                       >
-                        Genaret File
+                        Create section
                       </button>
                     )}
                     {el.value.created && (

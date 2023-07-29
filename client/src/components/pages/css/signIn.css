@@ -58,3 +58,7 @@
   font-size: 1.8rem;
   font-weight: 600;
 }
+.login-form button,
+.signup-form button {
+  font-size: 1.8rem;
+}

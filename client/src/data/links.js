@@ -4,19 +4,19 @@ export const sections = [
     path: 'title',
   },
   {
-    name: 'Aacnolegment',
-    path: 'aacnolegment',
+    name: 'Acknowledgment',
+    path: 'acknowledgment',
   },
   {
     name: 'Summery',
     path: 'summery',
   },
   {
-    name: 'Interouduction',
+    name: 'Introduction',
     path: 'introduction',
   },
   {
-    name: 'Material methods ',
+    name: 'Material methods',
     path: 'material',
   },
 
@@ -29,11 +29,11 @@ export const sections = [
     path: 'discussion',
   },
   {
-    name: 'Cunclusiion',
-    path: 'cunclusiion',
+    name: 'Conclusions',
+    path: 'conclusions',
   },
   {
-    name: 'Biography',
-    path: 'biography',
+    name: 'Bibliography',
+    path: 'bibliography',
   },
 ];

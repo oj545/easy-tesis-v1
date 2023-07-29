@@ -5,15 +5,15 @@ export const initProject = {
     chapterIsloaded: false,
     fileIsSave: true,
     instructions: undefined,
-    answers: ['', '', '', '', '', '', '', '', '', '', ''],
+    answers: [''],
   },
-  aacnolegment: {
-    title: 'aacnolegment',
+  acknowledgment: {
+    title: 'acknowledgment',
     id: '',
     chapterIsloaded: false,
     fileIsSave: true,
     instructions: undefined,
-    answers: ['', '', '', '', '', '', '', '', '', '', ''],
+    answers: [''],
   },
   summery: {
     title: 'summery',
@@ -21,7 +21,7 @@ export const initProject = {
     chapterIsloaded: false,
     fileIsSave: true,
     instructions: undefined,
-    answers: ['', '', '', '', '', '', '', '', '', '', ''],
+    answers: [''],
   },
   introduction: {
     title: 'introduction',
@@ -45,7 +45,7 @@ export const initProject = {
     chapterIsloaded: false,
     fileIsSave: true,
     instructions: undefined,
-    answers: ['', '', '', '', ''],
+    answers: ['', '', '', '', '', '', '', '', '', ''],
   },
   discussion: {
     title: 'description',
@@ -53,23 +53,23 @@ export const initProject = {
     chapterIsloaded: false,
     fileIsSave: true,
     instructions: undefined,
-    answers: ['', '', '', '', '', '', ''],
+    answers: ['', '', '', '', '', ''],
   },
-  cunclusiion: {
-    title: 'cunclusiion',
+  conclusions: {
+    title: 'conclusions',
     id: '',
     chapterIsloaded: false,
     fileIsSave: true,
     instructions: undefined,
-    answers: ['', '', '', '', ''],
+    answers: ['', '', '', ''],
   },
-  biography: {
-    title: 'biography',
+  bibliography: {
+    title: 'bibliography',
     id: '',
     chapterIsloaded: false,
     fileIsSave: true,
     instructions: undefined,
-    answers: ['', '', '', '', ''],
+    answers: [''],
   },
 };
 
@@ -82,5 +82,5 @@ export const userFilse = {
   results: { created: false, fileIsSave: true, complited: 0 },
   discussion: { created: false, fileIsSave: true, complited: 0 },
   conclusions: { created: false, fileIsSave: true, complited: 0 },
-  biography: { created: false, fileIsSave: true, complited: 0 },
+  bibliography: { created: false, fileIsSave: true, complited: 0 },
 };

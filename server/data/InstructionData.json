@@ -1,5 +1,29 @@
 [
   {
+    "title": "title",
+    "generalDescription": "1. Be Clear and Concise: Keep the title concise and to the point. Avoid long an convoluted phrases. A clear and straightforward title will attract readers and conve the main focus of your thesis. \n 2. Reflect on the Main Theme: The title should reflect your research's central them or topic. It should give readers an idea of your thesis without being overly vague o ambiguous\n 3. Use Keywords: Incorporate relevant keywords that represent the core concepts o your study. Keywords are essential for search engine optimization and help potentia readers find your thesis when conducting literature searches \n 4. Be Descriptive: The title should provide insight into the scope and purpose of you research. It should be descriptive enough to give readers an idea of what to expect \n 5. Be Unique: Ensure your title is distinctive and differentiates your thesis fro others in the field. Avoid generic or overused titles \n 6. Consider the Tone: The tone of the title should be professional and formal reflecting the academic nature of the work Revise and Refine: Don't settle for the first title that comes to mind. Take time t brainstorm and generate several options. Revise and refine them until you find the one that best encapsulates your research.",
+    "tasks": [{}]
+  },
+  {
+    "title": "acknowledgment",
+    "generalDescription": "1. Keep It Personal: Acknowledgments are a heartfelt section of your thesis, so write in a sincere and personal tone. Use first-person language (I, we) to convey your gratitude. \n2. Be Inclusive: Recognize all individuals and entities who have directly or indirectly contributed to your research. This includes your thesis advisor, mentors, fellow researchers, professors, family, friends, and any funding agencies or institutions that supported your work. \n3. Order of Acknowledgments: Generally, start with your thesis advisor or supervisor, as they played a significant role in guiding your research. Then, mention other key academic contributors and collaborators, followed by family, friends, and others who supported you personally or professionally. \n4. Be Specific: Avoid generic or vague expressions of gratitude. Instead, mention specific contributions and support provided by each individual or organization. For example, if someone helped with data collection or offered valuable feedback, acknowledge that specifically. \n5. Be Respectful: If you mention individuals by their titles (e.g., Dr., Professor), use the appropriate titles and ensure the spellings of names are accurate. \n6. Professional Courtesy: While acknowledgments can be personal, maintain professionalism and avoid humor or overly emotional language. \n7. Mention Professional Services: If you received assistance from professional editors, statisticians, or other service providers, acknowledge their contributions. \n8. Keep It Concise: While it's essential to acknowledge everyone who contributed, try to keep the acknowledgments section reasonably concise. Avoid excessive detail that may distract from the main content of your thesis. \n9. Avoid Overlooking Contributions: Take your time to reflect on your entire research journey to avoid unintentionally overlooking anyone who played a part in supporting your work. See the example in the Bank of Sentences icon.",
+    "tasks": [
+      {
+        "headLine": "Study design",
+        "description": "",
+        "sentenceBank": [
+          "Example",
+          "I would like to express my deep gratitude and appreciation to my thesis advisor, Dr. Emily Johnson, for her unwavering support, invaluable guidance, and patience throughout this research. Her expertise and insightful feedback have been instrumental in shaping the outcome of this thesis.",
+          "I thank the research participants who generously gave their time and insights to make this study possible. I am also grateful to my classmates and colleagues who provided valuable discussions and feedback during the research process.",
+          "I want to acknowledge the financial support provided by the XYZ Foundation, which allowed me to conduct this research.",
+          "I am indebted to my family for their constant encouragement, understanding, and unconditional love, which provided the emotional support I needed to stay motivated during this journey.",
+          "Lastly, I extend my heartfelt thanks to my friends for their encouragement, occasional distractions, and unwavering belief in my abilities.",
+          "This thesis would not have been possible without the support of all these outstanding individuals and organizations. Thank you all for being an essential part of this journey."
+        ]
+      }
+    ]
+  },
+  {
     "title": "introduction",
     "generalDescription": "The introduction chapter of a thesis serves as an essential component that provides the reader with an overview of the research project. It should be written to engage the reader and explain the research's significance and relevance. The introduction chapter should clearly and concisely introduce the research topic, problem statement, research questions/hypotheses, objectives, and significance of the research",
     "tasks": [
@@ -113,129 +137,22 @@
   },
   {
     "title": "summery",
-    "generalDescription": "The introduction chapter of a thesis serves as an essential component that provides the reader with an overview of the research project. It should be written to engage the reader and explain the research's significance and relevance. The introduction chapter should clearly and concisely introduce the research topic, problem statement, research questions/hypotheses, objectives, and significance of the research",
-    "tasks": [
-      {
-        "description": "Background: Provide a brief overview of the research topic and its relevance. This could include a brief history of the topic, previous research or studies conducted, and gaps or shortcomings your research aims to address.",
-        "sentenceBank": [
-          "The research topic of this thesis is [insert topic], which has gained increasing attention in recent years due to [insert reason]. ",
-          "[Insert topic] has been studied extensively in the past, but there are still many gaps in our understanding of [insert topic]. ",
-          "The field of [insert field] has seen significant growth over the past decade due to [insert reason]. This growth has increased interest in [insert topic] research.",
-          "The need for [insert topic] research has become increasingly important in recent years due to [insert reason], making it a critical area of study in [insert field].",
-          "Previous research has highlighted the importance of [insert topic] in [insert field], but much is still to be explored and understood.",
-          "The history of [insert topic] dates back to [insert time period], and it has been studied extensively since then. However, there are still many unanswered questions in this field.",
-          "The existing literature on [insert topic] suggests that [insert findings], but there is still much to be explored in this area.",
-          "Recent advancements in [insert technology/field] have created new opportunities for exploring [insert topic], making it a timely and important/essential/vital study area.",
-          "Despite the increasing interest in [insert topic], there is still a lack of consensus regarding [insert aspect of the topic], making it a critical area for further research.",
-          "The significance of [insert topic] in [insert field] cannot be overstated, as it has the potential to [insert potential impact]. "
-        ]
-      },
-      {
-        "description": "Problem statement: The second paragraph should clearly define the research problem that your thesis aims to address. This should be done concisely and focused, highlighting the problem's importance in the field. This paragraph should clearly state the research gap the thesis aims to address and why it is significant. ",
-        "sentenceBank": [
-          "Despite significant research in [insert topic], there is still a lack of understanding regarding [insert specific problem or gap in the research]. ",
-          "The current state of knowledge regarding [insert topic] is limited, particularly in the area of [insert specific problem or gap in the research].",
-          "Although several studies have investigated [insert topic], little is known about [insert specific problem or gap in the research].",
-          "[Insert topic] has been studied extensively in the past, but there are still many gaps in our understanding of [insert topic]. ",
-          "There is a pressing need for further research on [insert topic] to address the issue of [insert specific problem or gap in the research].",
-          "The existing research on [insert topic] has not adequately addressed the problem of [insert specific problem or gap in the research]. ",
-          "The problem of [insert specific problem or gap in the research] has significant implications for [insert field or application], highlighting the need for further research in this area.",
-          "he lack of understanding regarding [insert specific problem or gap in the research] poses a significant challenge for [insert field or application], making it a critical area for further research.",
-          "The problem of [insert specific problem or gap in the research] is particularly relevant in light of [insert recent events or developments], highlighting the need for urgent attention to this issue.",
-          "The existing research on [insert topic] has produced conflicting results regarding [insert specific problem or gap in the research], creating a need for further investigation to resolve this issue.",
-          "These phrases can be used as a starting point to clearly define the research problem or gap that your thesis aims to address in the introduction chapter. "
-        ]
-      },
-      {
-        "description": "Research questions/hypotheses: Present the research questions or hypotheses guiding your research. These should be specific, measurable, and aligned with the research problem. ",
-        "sentenceBank": [
-          "The primary research question of this thesis is [insert question], which aims to [insert purpose of the research question].",
-          "The following research questions will guide this study: [insert questions], which will be explored to [insert purpose of the research questions].",
-          "To achieve the research aim of this thesis, the following research questions will be addressed: [insert questions], which will be investigated to [insert purpose of the research questions].",
-          "The research questions for this study are designed to [insert purpose of the research questions] and include: [insert questions].",
-          "This study aims to test the following hypotheses: [insert hypotheses], which predict [insert expected outcomes of the hypotheses].",
-          "The following hypotheses will be tested in this study: [insert hypotheses], which aim to [insert expected outcomes of the hypotheses].",
-          "Based on previous research, the following hypotheses are proposed: [insert hypotheses], which predict [insert expected outcomes of the hypotheses].",
-          "The hypotheses for this study are formulated to [insert purpose of the hypotheses] and include: [insert hypotheses]."
-        ]
-      },
-      {
-        "description": "Objectives: State the study's objectives, which should be specific and aligned with the research questions or hypotheses. The objectives of this thesis are to [insert objectives], which will be achieved through [insert methodology or approach].",
-        "sentenceBank": [
-          "This study aims to achieve the following objectives: [insert objectives], which will be accomplished through [insert methodology or approach].",
-          "The primary objectives of this thesis are to [insert objectives], with the aim of [insert purpose of the objectives].",
-          "The following objectives will be pursued to achieve the research aim and address the research questions: [insert objectives], which will be accomplished through [insert methodology or approach].",
-          "The specific objectives of this study are designed to [insert purpose of the objectives] and include: [insert objectives].",
-          "This study will seek to accomplish the following objectives: [insert objectives], with the aim of [insert purpose of the objectives].",
-          "The main objectives of this thesis are to [insert objectives], with the intention of [insert purpose of the objectives].",
-          "The objectives of this study will be achieved through a combination of [insert methodology or approach] and are designed to [insert purpose of the objectives]."
-        ]
-      },
-      {
-        "description": "Significance: Explain the significance and contribution of your research to the field. This could include practical or theoretical implications and how your research addresses the gap identified in the literature. ",
-        "sentenceBank": [
-          "The research presented in this thesis is significant because it [insert significance of the research].",
-          "This study is significant because it addresses a critical gap in the literature regarding [insert topic] and has the potential to [insert potential impacts of the research].",
-          "The significance of this research lies in its potential to [insert potential impacts of the research], which has important implications for [insert field or application].",
-          "The findings of this research are significant because they [insert significance of the research], which can inform future [insert field or application] practices.",
-          "This research is significant because it contributes to understanding [insert topic], which has implications for [insert field or application]. ",
-          "The significance of this study is its potential to [insert potential impacts of the research], which can inform [insert field or application] policy and practice.",
-          "This research is significant because it addresses a timely and important issue in [insert field or application] and has the potential to [insert potential impacts of the research].",
-          "The significance of this study lies in its contribution to the understanding of [insert topic], which has implications for [insert field or application] and beyond. ",
-          "The findings of this research are significant because they can contribute to the development of [insert field or application] knowledge and practice. ",
-          "This research is significant because it provides insights into [insert topic], which has implications for [insert field or application] and beyond. "
-        ]
-      },
-      {
-        "description": "Significance: Explain the significance and contribution of your research to the field. This could include practical or theoretical implications and how your research addresses the gap identified in the literature. ",
-        "sentenceBank": [
-          "The research presented in this thesis is significant because it [insert significance of the research].",
-          "This study is significant because it addresses a critical gap in the literature regarding [insert topic] and has the potential to [insert potential impacts of the research].",
-          "The significance of this research lies in its potential to [insert potential impacts of the research], which has important implications for [insert field or application].",
-          "The findings of this research are significant because they [insert significance of the research], which can inform future [insert field or application] practices.",
-          "This research is significant because it contributes to understanding [insert topic], which has implications for [insert field or application]. ",
-          "The significance of this study is its potential to [insert potential impacts of the research], which can inform [insert field or application] policy and practice.",
-          "This research is significant because it addresses a timely and important issue in [insert field or application] and has the potential to [insert potential impacts of the research].",
-          "The significance of this study lies in its contribution to the understanding of [insert topic], which has implications for [insert field or application] and beyond. ",
-          "The findings of this research are significant because they can contribute to the development of [insert field or application] knowledge and practice. ",
-          "This research is significant because it provides insights into [insert topic], which has implications for [insert field or application] and beyond. ",
-          "This research significantly contributes to the [insert field] field by [insert contribution].",
-          "The findings of this study contribute to the development of [insert field] knowledge by [insert contribution]. ",
-          "This research provides a novel contribution to the field of [insert field] by [insert contribution]. ",
-          "The contribution of this research is in its [insert contribution], which has the potential to [insert potential impacts]. ",
-          "This study provides a valuable contribution to the field of [insert field] by [insert contribution].",
-          "This research advances [insert field] knowledge by [insert contribution]. ",
-          "The contribution of this research is in its [insert contribution], which fills a gap in the literature regarding [insert topic]. ",
-          "This study extends the current understanding of [insert field or topic] by [insert contribution]. ",
-          "The significance of this research lies in its contribution to the development of [insert field] knowledge and practice by [insert contribution].",
-          "The contribution of this research is in its potential to [insert potential impacts], which can inform [insert field or application] practice."
-        ]
-      },
-      {
-        "description": "Organization of the thesis: The final paragraph should provide an overview of the structure of the thesis, including the chapters and sections. This paragraph should give the reader an idea of what to expect in the rest of the thesis and how the information will be organized. ",
-        "sentenceBank": [
-          "This thesis is organized as follows: Chapter [insert chapter number] provides an overview of the [insert topic or field], Chapter [insert chapter number] presents the literature review, Chapter [insert chapter number] outlines the methodology, and so on. ",
-          "To provide a clear and structured presentation of the research, this thesis is organized as follows: Chapter [insert chapter number] introduces the research problem and objectives, Chapter [insert chapter number] provides an overview of the literature, Chapter [insert chapter number] presents the methodology, and so on. ",
-          "The structure of this thesis is as follows: Chapter [insert chapter number] provides a brief introduction to the research, Chapter [insert chapter number] presents the theoretical framework, Chapter [insert chapter number] outlines the methodology, and so on.",
-          "This thesis is organized into several sections to provide a comprehensive and coherent presentation of the research. Chapter [insert chapter number] presents an overview of the research problem, Chapter [insert chapter number] provides a detailed literature review, Chapter [insert chapter number] outlines the research methodology, and so on. ",
-          "The organization of this thesis is designed to provide a clear and logical presentation of the research. Chapter [insert chapter number] introduces the research problem and objectives, Chapter [insert chapter number] presents the literature review, Chapter [insert chapter number] outlines the methodology, and so on."
-        ]
-      }
-    ]
+    "generalDescription": "The summary, or the abstract, is your thesis's concise and informative overview. It should highlight the critical aspects of your research, its significance, methods used, major findings, and conclusions. Here are detailed instructions for writing the summary: \n1. Length and Format: Check with your university's guidelines for the required length of the abstract. Typically, it should be around 200 to 300 words. Write the abstract as a single paragraph without indentations or bullet points. \n2. Clarity and Conciseness: Use clear and straightforward language to ensure that readers quickly understand the purpose and outcomes of your research. Avoid unnecessary jargon or technical terms that might hinder comprehension. \n3. Introduction: Begin the abstract by stating the background and context of your research. Mention the broader research area and the specific research question or problem you aimed to address. \n4. Methods: Briefly describe your research's experimental design, data collection methods, and analytical approaches. Highlight any novel or significant techniques employed. \n5. Results: Summarize the major findings and outcomes of your study. Focus on the most important results that directly address your research question. \n6. Conclusions: State the main conclusions or implications of your research. Discuss the significance of your findings and how they contribute to the existing knowledge in the field. \n7. Key Contributions: Emphasize the unique contributions of your thesis to the field of molecular biology. Mention any novel discoveries, advancements, or applications arising from your work. \n8. Avoid Citations: The abstract should be self-contained and not contain citations or references to other works. \n9. Tense: Write the abstract in the past tense, describing the completed research. See the example in the Bank of Sentences icon.",
+    "tasks": [{}]
   },
   {
     "title": "material",
-    "generalDescription": "The &quot;Materials and Methods&quot; chapter of a thesis should provide a detailed description of the experimental design, methods, and techniques used to conduct the research. This section should be written clearly and concisely, with enough detail to enable another researcher to replicate the study. This may include information on any experimental protocols used, such as the concentrations or doses of treatments used, as well as any relevant environmental conditions or other variables that may have influenced the results. Where the methods chosen are new, unfamiliar, or perhaps even controversial, or where the intended audience is from many disciplines, the Methods section will be much more extensive.",
+    "generalDescription": "The Materials and Methods chapter of a thesis should provide a detailed description of the experimental design, methods, and techniques used to conduct the research. This section should be written clearly and concisely, with enough detail to enable another researcher to replicate the study. This may include information on any experimental protocols used, such as the concentrations or doses of treatments used, as well as any relevant environmental conditions or other variables that may have influenced the results. Where the methods chosen are new, unfamiliar, or perhaps even controversial, or where the intended audience is from many disciplines, the Methods section will be much more extensive.",
     "tasks": [
       {
         "headLine": "Study design",
-        "description": "This section should describe the study&#39;s overall design, including the research question or hypothesis, the study population or sample, and the study design. It should also describe the  experimental or observational design, such as a randomized controlled trial, cross-sectional  study, cohort study, or case-control study. It is possible to add a diagram summarizing the  study design.",
+        "description": "This section should describe the study's overall design, including the research question or hypothesis, the study population or sample, and the study design. It should also describe the  experimental or observational design, such as a randomized controlled trial, cross-sectional  study, cohort study, or case-control study. It is possible to add a diagram summarizing the  study design.",
         "sentenceBank": [
           "The research question/hypothesis for this study was.",
           "The study population consisted of",
           "The study design used in this study was",
           "The research question addressed in this study was _______. To answer this",
-          "question, the following study design was employed.&quot;"
+          "question, the following study design was employed."
         ]
       },
       {
@@ -309,7 +226,7 @@
           "The data were normalized using ...",
           "A p-value &lt;0.05 was considered significant.",
           "Descriptive data were generated for all variables.",
-          "Reliability was calculated using Cronbach&#39;s alpha.",
+          "Reliability was calculated using Cronbach's alpha.",
           "All analyses were carried out using SPSS, version 20.",
           "Non-parametric tests were used to compare the number of ...",
           "Independent sample t-tests were carried out to assess whether ...",
@@ -325,13 +242,13 @@
         "description": "This section should describe any ethical considerations that were considered during the study. For example, if the study involved animal subjects, it should describe how the animals  were treated, any measures taken to minimize animal suffering, and any relevant ethical  review boards consulted. Similarly, if the study involved human subjects, it should describe  how informed consent was obtained, any measures taken to protect participant privacy, and  any ethical review boards consulted.",
         "sentenceBank": [
           "This study complied with all relevant ethical guidelines, including those outlined by  _______ (e.g., Institutional Review Board, Animal Care and Use Committee).",
-          "Informed consent was obtained from all human participants included in the study,  and they were informed about the study&#39;s purpose, procedures, risks, and benefits.",
+          "Informed consent was obtained from all human participants included in the study,  and they were informed about the study's purpose, procedures, risks, and benefits.",
           "The privacy and confidentiality of all human participants were protected by _______  (e.g., de-identification, secure storage).",
           "Animal care and use protocols were approved by _______ (e.g., Institutional Animal  Care and Use Committee).",
           "All animal experiments were conducted following the relevant laws, regulations, and  guidelines, and efforts were made to minimize animal suffering.",
           "All researchers involved in this study were trained in ethical research practices and  the responsible conduct of research.",
           "All researchers involved in this study identified and disclosed potential conflicts of  interest, and measures were taken to manage or eliminate them.",
-          "The potential implications of this research for society and the environment were  considered, and efforts were made to ensure that the benefits of the research  outweighed any potential risks or harms.&quot;",
+          "The potential implications of this research for society and the environment were  considered, and efforts were made to ensure that the benefits of the research  outweighed any potential risks or harms.",
           "Any deviations from the approved study protocol were promptly reported to  _______ (e.g., the funding agency, the Institutional Review Board).",
           "A detailed description of the ethical considerations related to this study is provided  in Appendix C."
         ]
@@ -340,7 +257,7 @@
   },
   {
     "title": "results",
-    "generalDescription": "The results chapter of a scientific thesis is a crucial section that showcases the findings and outcomes of the research study. Its primary purpose is to present the collected data, conduct statistical analysis, interpret the results, and discuss their implications. The Chapter follows a logical progression, starting with an introduction to the results, then the presentation of data, statistical analysis, and interpretation. It aims to provide a comprehensive and objective account of the research findings, contributing to the existing scientific knowledge in the field. By analyzing and discussing the results, the Chapter generates new insights and advances understanding in the specific study area. Overall, the results chapter plays a vital role in demonstrating the research&#39;s significance and shaping the subsequent discussions and conclusions of the thesis.",
+    "generalDescription": "The results chapter of a scientific thesis is a crucial section that showcases the findings and outcomes of the research study. Its primary purpose is to present the collected data, conduct statistical analysis, interpret the results, and discuss their implications. The Chapter follows a logical progression, starting with an introduction to the results, then the presentation of data, statistical analysis, and interpretation. It aims to provide a comprehensive and objective account of the research findings, contributing to the existing scientific knowledge in the field. By analyzing and discussing the results, the Chapter generates new insights and advances understanding in the specific study area. Overall, the results chapter plays a vital role in demonstrating the research's significance and shaping the subsequent discussions and conclusions of the thesis.",
     "tasks": [
       {
         "headLine": "Study design",
@@ -470,7 +387,7 @@
   },
   {
     "title": "discussion",
-    "generalDescription": "The Discussion section serves as a framing section, similar to the Introduction, by revisiting the significant argument established earlier. It begins by demonstrating how the new research has supported the hypothesis and then proceeds to illustrate how the fields knowledge has been altered due to the inclusion of this new data. While the Introduction starts with a broad perspective and gradually narrows down to the specific hypothesis, the Discussion starts with interpreting the results and then expands to contextualize these findings within the broader field. The Discussion is often structured as a &quot;dialogue&quot; between the Results and existing theories, encompassing your theories and those of other researchers. For each experimental result you discuss, you should identify relevant findings from other publications that establish the relationship you want the reader to comprehend. Your result may align with, extend, refine, or conflict with previous results. Positioning your new data in relation to existing knowledge allows readers to understand its significance within the field. Remember to maintain a logical flow and use clear headings or subheadings to guide the reader through the Discussion section. This will help them understand the connections between your findings, existing knowledge, and theoretical frameworks.",
+    "generalDescription": "The Discussion section serves as a framing section, similar to the Introduction, by revisiting the significant argument established earlier. It begins by demonstrating how the new research has supported the hypothesis and then proceeds to illustrate how the fields knowledge has been altered due to the inclusion of this new data. While the Introduction starts with a broad perspective and gradually narrows down to the specific hypothesis, the Discussion starts with interpreting the results and then expands to contextualize these findings within the broader field. The Discussion is often structured as a dialogue between the Results and existing theories, encompassing your theories and those of other researchers. For each experimental result you discuss, you should identify relevant findings from other publications that establish the relationship you want the reader to comprehend. Your result may align with, extend, refine, or conflict with previous results. Positioning your new data in relation to existing knowledge allows readers to understand its significance within the field. Remember to maintain a logical flow and use clear headings or subheadings to guide the reader through the Discussion section. This will help them understand the connections between your findings, existing knowledge, and theoretical frameworks.",
     "tasks": [
       {
         "headLine": "Study design",
@@ -592,12 +509,43 @@
           "Future studies could explore the cultural or contextual factors that may influence the manifestation of [phenomenon] in different populations.",
           "Identifying the mediators or moderators that explain the relationship between [variables] would be a valuable direction for future research."
         ]
-      },
-      {
-        "headLine": "Study design",
-        "description": "The ending of the Discussion section in a scientific thesis should provide a concise and impactful summary, highlighting the key findings, their implications, and their contribution to the field. Ultimately, the ending of the Discussion section should leave the reader with a clear understanding of the significance of your findings and their implications while acknowledging any limitations and suggesting future research directions.",
-        "sentenceBank": []
       }
     ]
+  },
+  {
+    "title": "conclusions",
+    "generalDescription": "The ending of the Discussion section in a scientific thesis should provide a concise and impactful summary, highlighting the key findings, their implications, and their contribution to the field. Ultimately, the ending of the Discussion section should leave the reader with a clear understanding of the significance of your findings and their implications while acknowledging any limitations and suggesting future research directions. \nHere are a few approaches to consider:",
+    "tasks": [
+      {
+        "description": "1. Recapitulation of main findings: Summarize the main findings of your study, emphasizing their significance and how they address the research questions or hypotheses. Choose",
+        "sentenceBank": [
+          "Example: In conclusion, this study revealed robust evidence supporting the hypothesis that [state your hypothesis]. The findings shed light on [specific aspect] and provide valuable insights into [broader topic]."
+        ]
+      },
+      {
+        "description": "2 Implications and significance: Discuss the broader implications of your findings and their significance for the field, practical applications, or future research directions. Choose",
+        "sentenceBank": [
+          "Example: The implications of our findings extend beyond the scope of this study, with potential applications in [relevant field]. Moreover, these results offer a foundation for future investigations into [unexplored area] and promise advancements in [specific domain]."
+        ]
+      },
+      {
+        "description": "3. Limitations and recommendations: Briefly acknowledge the limitations of your study and provide recommendations for addressing them or expanding upon your research in the future.",
+        "sentenceBank": [
+          "Example: While this study significantly contributes to the field, it has limitations. Future research should consider addressing the limitations by [suggested improvements]. Additionally, exploring [unanswered question] and investigating [potential extension] will further enhance our understanding of [research area]"
+        ]
+      },
+      {
+        "description": " 4. Overall synthesis: Provide a concise synthesis of the main points discussed in the Discussion section, emphasizing their relevance to the research objectives and their impact on the field. ",
+        "sentenceBank": [
+          "Example: In summary, our study has provided compelling evidence supporting the hypothesis and has expanded our understanding of [research area]. These findings contribute to the existing body of knowledge and offer new avenues for further exploration, ultimately advancing our knowledge in [specific field]."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "bibliography",
+    "generalDescription": "The bibliography (the references or works cited) lists all the sources you cited or consulted in your master's thesis. It allows readers to locate and verify the information you used in your research. Here are some instructions for writing the bibliography: \n1. Organize the List: Arrange the sources alphabetically by the first author's last name. If there is no author, use the source's title for alphabetizing. \n2. Consistent Formatting: Use a consistent citation style throughout your bibliography. The most commonly used citation styles in academic writing are APA (American Psychological Association), MLA (Modern Language Association), and Chicago/Turabian. Check with your university or thesis advisor to determine which style to use. \n3. Complete Information: Ensure that each entry in the bibliography includes all the necessary information to identify the source correctly. Common elements include author(s), title, publication date, publisher (for books), journal title (for articles), volume and issue number (for journal articles), page numbers, and DOI (Digital Object Identifier) or URL (for online sources). \n4. Accuracy: Double-check each source's details to ensure accuracy. Mistakes in the bibliography can negatively impact the credibility of your work. \n5. Hanging Indents: For each entry, use a hanging indent format, where the first line starts at the left margin, and subsequent lines are indented. \n6. Consistency: Be consistent with punctuation, capitalization, and italics/bold formatting within each citation. \n7. Check for DOI/URL: Include DOIs for journal articles and URLs for online sources whenever available. This helps readers access the full text of the sources easily. \nSoftware for Managing Citations and Creating Bibliographies: \n1. **Zotero**: Zotero is a free and open-source citation management tool that allows you to collect, organize, and cite your references. It integrates well with word processing software like Microsoft Word and Google Docs, making generating citations and bibliographies in your preferred citation style easy. \n2. **Mendeley**: Mendeley is another popular citation management tool that offers reference organization, PDF annotation, and citation generation. It also provides collaborative features, allowing you to share references with other researchers.",
+
+    "tasks": [{}]
   }
 ]

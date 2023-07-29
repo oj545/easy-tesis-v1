@@ -7,66 +7,48 @@ function HelpPage() {
   return (
     <Page>
       <div className="help-controller">
-        <h2>HOW IT IS WORK</h2>
+        <h2>How it Works</h2>
 
         <div className="help-explenation">
-          <p>1. Got to files on the bottom fo the page</p>
           <p>
-            2. click on the button{' '}
-            <button disabled={true} className="btn btn-lg  btn-primary">
-              Generat File
-            </button>{' '}
-            for the section you want to start work on
-            <br />
-            <span className="text-success">
-              if you got a green message it means that the file created
-              Successfuly
-            </span>
+            1. Accessing Files: - After logging in, go to the general menu and
+            click "Files."
           </p>
           <p>
-            3. go to the Side Bar and click on the button 8. now go to files and
-            you will see red butoon{' '}
-            <button disabled={true} className="btn btn-lg  btn-danger">
-              Save Changes
-            </button>{' '}
-            section you created
-            <br />
-            <span>
-              if you didnt create file for the specific section you will get an
-              Error <strong className="text-danger">File Not found</strong>
-            </span>
-          </p>
-          <p>4. next read the general discription</p>
-          <p>
-            5. start to work on the tasks Each task has a{' '}
-            <strong>Sentence Bank </strong> Button click on this button will
-            open a List of Sentence that will Help You to wirt you answers
+            2. Creating Sections: - Choose the sections you want to work on and
+            click on them. - A green message confirms the successful creation of
+            the section. - If you encounter an "Error: File Not Found," it means
+            you haven't created a file for that specific section yet.
           </p>
           <p>
-            6. After wirting your answer the <strong>save chainges</strong>{' '}
-            Button on the left side will turn red{' '}
-            <span className="text-danger">
-              it means thet your changes are not saved
-            </span>{' '}
-            After cicking this button he will turn bue agine{' '}
-            <span className="text-success">now your chenges are saved</span>
+            3. Reading Section Descriptions: - Before writing the paragraphs,
+            carefully read the description provided for each section.
           </p>
-          <p>7. now meke sure that all your Answers are saved</p>
-          {/* <h3 className="text-danger">very importent!</h3>{' '} */}
           <p>
-            8.click on the button{' '}
-            <button disabled={true} className="btn btn-lg  btn-danger">
-              save File
-            </button>{' '}
-            on the top right of the page or go to files and you will see red
-            butoon{' '}
-            <button disabled={true} className="btn btn-lg  btn-danger">
-              save File
-            </button>{' '}
-            <br />
-            <span className="text-success">
-              now your file save in our Data Base
-            </span>{' '}
+            4. Using the "Sentence Bank": - Each paragraph includes a helpful
+            "Sentence Bank" button. - Clicking on this button will open a list
+            of sentences to assist you in composing your answers.
+          </p>
+          <p>
+            5. Saving Your Progress: - After writing your answers, note that the
+            "Save Changes" button on the left will turn red, indicating unsaved
+            changes. - Click the "Save Changes" button to save your progress; it
+            will turn blue again, confirming successful saving. - Ensure all
+            your answers are saved before proceeding.
+          </p>
+
+          <p>
+            6. Finalizing and Saving Your File: - To complete and save your file
+            in our database, click the "Save File" button at the top right of
+            the page. - Alternatively, the red "Save File" button is in the
+            "Files" section.
+          </p>
+          <p>
+            7. Seeking assistance: - If you have further questions or need
+            assistance, don't hesitate to contact us. We believe this
+            step-by-step guide will enhance your experience with our program.
+            Thank you for choosing our service; we're here to support you
+            throughout the process!
           </p>
         </div>
       </div>

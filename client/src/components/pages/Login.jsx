@@ -33,7 +33,7 @@ function Login() {
           <div className="form-image">
             <div className="form-description">
               <h2>Login</h2>
-              <p>Wolcome back to Easy Thesis</p>
+              <p>Welcome back to Easy Thesis</p>
             </div>
           </div>
 
@@ -76,22 +76,3 @@ function Login() {
 
 export default Login;
 // <
-
-// export default Login;
-// <form onSubmit={submitHandler} className="signin-form">
-// <div>
-//   <label>email</label>
-//   <input
-//     type="text"
-//     onChange={(e) => setLogin({ ...login, email: e.target.value })}
-//   />
-// </div>
-// <div>
-//   <label>Password</label>
-//   <input
-//     type="password"
-//     onChange={(e) => setLogin({ ...login, password: e.target.value })}
-//   />
-// </div>
-// <button type="submit">submit</button>
-// </form>

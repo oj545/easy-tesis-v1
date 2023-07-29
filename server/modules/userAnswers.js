@@ -13,7 +13,7 @@ const UserAnswersSchema = new mongoose.Schema({
       "results",
       "discussion",
       "conclusions",
-      "biography",
+      "bibliography",
     ],
   },
   content: {
