@@ -4,7 +4,6 @@ const cors = require("cors");
 const helmet = require("helmet");
 const limiter = require("./middleware/limiter");
 const mongoSanitize = require("express-mongo-sanitize");
-const xss = require("xss-clean");
 const hpp = require("hpp");
 
 const AppError = require("./utils/appError");
@@ -38,11 +37,7 @@ app.use("/api/chapters", chapterRoutes);
 app.use("/api/checkList", checkListRoutes);
 app.use("/api/users", userRouter);
 
-// 5) ERROR HANDLERS
-app.all("*", (req, res, next) => {
-  next(new AppError(`cant find ${req.originalUrl} on thid server`));
-});
-
+// 5) ERROR CONTROLLER
 app.use(errorController);
 
 module.exports = app;

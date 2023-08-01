@@ -1,6 +1,5 @@
 const DAL_HTML = require("../dal/dalHtmlTemplet");
 const DAL_ANS = require("../dal/dalAnswers");
-const AppError = require("../utils/appError");
 const replacer = require("../helperFunctions/replacer");
 
 const renderHtml = async (titles, userId) => {
