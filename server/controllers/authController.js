@@ -5,7 +5,7 @@ const bcrypt = require("bcrypt");
 const User = require("../modules/userModel");
 
 const generateToke = (id) => {
-  clg;
+  console.log(process.env.JWT_SECRET);
   return Jwt.sign({ id }, process.env.JWT_SECRET, {
     expiresIn: "30d",
   });
