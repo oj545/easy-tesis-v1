@@ -1,9 +1,10 @@
+import { url } from '../../data/links';
 import { projectAction } from '../../redux/projectSlice';
 import { userAction } from '../../redux/userSlice';
 
 export const saveFile = (answers, token) => async (dispatch) => {
   try {
-    const response = await fetch(`/api/chapters/${answers._id}`, {
+    const response = await fetch(`${url}/api/chapters/${answers._id}`, {
       method: 'PATCH',
       headers: {
         'Content-Type': 'application/json',

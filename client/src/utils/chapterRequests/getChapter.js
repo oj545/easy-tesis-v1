@@ -1,5 +1,7 @@
+import { url } from '../../data/links';
+
 export const getChapter = async (title, token) => {
-  const response = await fetch(`/api/chapters/${title}`, {
+  const response = await fetch(`${url}/api/chapters/${title}`, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',

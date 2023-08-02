@@ -1,9 +1,10 @@
+import { url } from '../../data/links';
 import { projectAction } from '../../redux/projectSlice';
 import { userAction } from '../../redux/userSlice';
 
 export const createNewFile = (content, title, token) => async (dispatch) => {
   try {
-    const response = await fetch(`/api/chapters/${title}`, {
+    const response = await fetch(`${url}/api/chapters/${title}`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

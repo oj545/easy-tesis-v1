@@ -16,7 +16,7 @@ function Login() {
 
   const submitHandler = async (event) => {
     event.preventDefault();
-    dispatch(authThunk({ url: 'login', body: login }));
+    dispatch(authThunk({ endpoint: 'login', body: login }));
   };
   useEffect(() => {
     if (userDetails.id) {

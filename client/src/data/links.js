@@ -1,3 +1,5 @@
+export const url = 'https://easy-thesis-v1.onrender.com';
+
 export const sections = [
   {
     name: 'Title',

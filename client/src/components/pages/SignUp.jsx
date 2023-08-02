@@ -27,7 +27,7 @@ function SignUp() {
 
   const submitHandler = async (event) => {
     event.preventDefault();
-    dispatch(authThunk({ url: 'signup', body: { signup } }));
+    dispatch(authThunk({ endpoint: 'signup', body: { signup } }));
   };
 
   return (
