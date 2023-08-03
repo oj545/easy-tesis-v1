@@ -55,7 +55,7 @@ function NavbarTop() {
           )}
 
           <NavLink className="nav-top-link" to="signIn">
-            Sign in
+            Sign Up
           </NavLink>
         </li>
       </ul>
