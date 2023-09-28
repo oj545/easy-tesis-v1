@@ -1,11 +1,10 @@
 const Jwt = require("jsonwebtoken");
 const asyncHandler = require("../utils/asyncHandler");
 const AppError = require("../utils/appError");
-const bcrypt = require("bcrypt");
+const bcrypt = require("bcryptjs");
 const User = require("../modules/userModel");
 
 const generateToke = (id) => {
-  console.log(process.env.JWT_SECRET);
   return Jwt.sign({ id }, process.env.JWT_SECRET, {
     expiresIn: "30d",
   });

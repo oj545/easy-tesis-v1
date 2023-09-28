@@ -33,9 +33,9 @@ app.use(mongoSanitize());
 app.use(hpp({ whitelist: ["title"] }));
 
 // 2) ROUTES
+app.use("/api/users", userRouter);
 app.use("/api/chapters", chapterRoutes);
 app.use("/api/checkList", checkListRoutes);
-app.use("/api/users", userRouter);
 
 // 5) ERROR CONTROLLER
 app.use(errorController);

@@ -13,9 +13,11 @@ function RootLayoutPage() {
 
   useEffect(() => {
     const token = GetCookie('jwt');
-    dispatch(userAction.setToken(token));
-    dispatch(getUser(token));
-    navigate('/chapters');
+    if (token) {
+      dispatch(userAction.setToken(token));
+      dispatch(getUser(token));
+      navigate('/chapters');
+    }
     if (!token) {
       navigate('/login');
     }

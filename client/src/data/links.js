@@ -1,4 +1,4 @@
-export const url = 'https://easy-thesis-v1.onrender.com';
+export const url = 'http://localhost:80';
 
 export const sections = [
   {

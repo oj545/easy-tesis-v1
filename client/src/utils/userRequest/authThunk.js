@@ -9,8 +9,8 @@ export const authThunk = createAsyncThunk(
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ ...body }),
     });
-
     const results = await response.json();
+
     return results;
   }
 );
